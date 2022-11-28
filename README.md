@@ -4,7 +4,8 @@
 - 🚀 I’m currently learning web & iOS Development
 
 - 👀 I’m looking to collaborate with teams
-- 📫 How to reach me 
+- 📫 How to reach me.
+- 
       iomar8860@gmail.com
       https://www.linkedin.com/in/omarlinked
       +966594408860
