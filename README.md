@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Omar
 
-- ⭐️ I’m interested in Mobile Development
-- 🚀 I’m currently learning iOS Development
+- ⭐️ I’m interested in Software Development.
+- 🚀 I’m currently learning web & iOS Development
 
-- 👀 I’m looking to collaborate on iOS development teams
+- 👀 I’m looking to collaborate with teams
 - 📫 How to reach me 
       iomar8860@gmail.com
       https://www.linkedin.com/in/omarlinked
